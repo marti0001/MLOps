@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/116127224812355992/e8ab9fbd96484864a39597ba9ded269b/artifacts
+deleted_time: 1744733711369
+end_time: 1744733640216
+entry_point_name: ''
+experiment_id: '116127224812355992'
+lifecycle_stage: deleted
+run_id: e8ab9fbd96484864a39597ba9ded269b
+run_name: honorable-toad-604
+run_uuid: e8ab9fbd96484864a39597ba9ded269b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744733636232
+status: 3
+tags: []
+user_id: MOlsz

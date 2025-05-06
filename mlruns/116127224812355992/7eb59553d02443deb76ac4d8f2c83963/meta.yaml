@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/116127224812355992/7eb59553d02443deb76ac4d8f2c83963/artifacts
+end_time: 1744740490677
+entry_point_name: ''
+experiment_id: '116127224812355992'
+lifecycle_stage: active
+run_id: 7eb59553d02443deb76ac4d8f2c83963
+run_name: enthused-newt-284
+run_uuid: 7eb59553d02443deb76ac4d8f2c83963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744740370116
+status: 4
+tags: []
+user_id: MOlsz

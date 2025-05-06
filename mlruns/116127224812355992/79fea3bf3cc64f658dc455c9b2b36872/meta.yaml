@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/116127224812355992/79fea3bf3cc64f658dc455c9b2b36872/artifacts
+end_time: 1744739925166
+entry_point_name: ''
+experiment_id: '116127224812355992'
+lifecycle_stage: active
+run_id: 79fea3bf3cc64f658dc455c9b2b36872
+run_name: bemused-wasp-138
+run_uuid: 79fea3bf3cc64f658dc455c9b2b36872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744739925136
+status: 4
+tags: []
+user_id: MOlsz

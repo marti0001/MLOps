@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/116127224812355992/cd7a6b0ee84a4b7fa8c0c56311ea6868/artifacts
+end_time: 1744740123659
+entry_point_name: ''
+experiment_id: '116127224812355992'
+lifecycle_stage: active
+run_id: cd7a6b0ee84a4b7fa8c0c56311ea6868
+run_name: classy-hen-678
+run_uuid: cd7a6b0ee84a4b7fa8c0c56311ea6868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744740123590
+status: 4
+tags: []
+user_id: MOlsz

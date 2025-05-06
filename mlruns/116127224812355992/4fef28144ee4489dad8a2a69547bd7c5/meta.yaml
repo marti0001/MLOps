@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/116127224812355992/4fef28144ee4489dad8a2a69547bd7c5/artifacts
+end_time: 1744733506202
+entry_point_name: ''
+experiment_id: '116127224812355992'
+lifecycle_stage: active
+run_id: 4fef28144ee4489dad8a2a69547bd7c5
+run_name: industrious-vole-167
+run_uuid: 4fef28144ee4489dad8a2a69547bd7c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744733502317
+status: 3
+tags: []
+user_id: MOlsz
